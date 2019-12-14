@@ -1,3 +1,4 @@
 {
-  "label.text" : "Create NEW USER"
+  "label.text" : "Create NEW USER",
+  "lable.error": "Please enter your correct name"
 }
